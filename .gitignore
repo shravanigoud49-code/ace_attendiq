@@ -1,0 +1,23 @@
+# Flutter/Dart
+.dart_tool/
+.packages
+.pub-cache/
+build/
+coverage/
+
+# IDEs
+.idea/
+*.iml
+.vscode/
+
+# Android
+gradle/
+android/.gradle/
+android/local.properties
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Generated Flutter plugin metadata
+.flutter-plugins-dependencies

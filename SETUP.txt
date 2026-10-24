@@ -1,0 +1,17 @@
+ACE AttendIQ quick setup
+
+1. Copy/extract this whole folder to your pendrive, for example:
+   F:\ace_attendiq
+
+2. Open that folder in VS Code.
+
+3. In the terminal:
+   flutter pub get
+
+4. If android/ or web/ are missing:
+   flutter create --platforms=android,web .
+
+5. Run in Chrome:
+   flutter run -d chrome
+
+The Android emulator is optional. A physical Android phone can also be used later.
